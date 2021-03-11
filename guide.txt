@@ -1,0 +1,22 @@
+Hello!
+
+If you want to edit this HTML file, you need to get a text editor.
+
+Here is one to download.
+
+https://code.visualstudio.com/download
+
+Then press Cmd+O or Ctrl+O.
+
+Then navigate to the index.html file.
+
+You'll probably find it in the Downloads -> Advanced HTML File-master or 
+Advanced-HTML-File-master.
+
+Press return or click on "Open"
+
+Then you can edit the file.
+
+Later!
+
+P.S. : You can come back to this file anytime you need to.
